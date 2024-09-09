@@ -1,0 +1,67 @@
+{
+  "gearType": [
+    {
+      "gear": "Full Stack Web3 Engineer • Aconcagua Software, United States",
+      "gearList": [{
+          "item": "Worked on Fiducia's project, a CEX platform."
+        },
+        {
+          "item": "Built backend with NodeJS/Express."
+        },
+        {
+          "item": "Implemented staking, swap, deposit/withdraw and transfer on BSC, Ethereum, Tron and Bitcoin."
+        },
+        {
+          "item": "Built frontend pages using React integrating with Rest APIs."
+        },
+        {
+          "item": "Wrote smart contracts for forwarding cryptos.",
+          "type": ["10 2022", "09 2023"]
+        }
+      ]
+    },
+    {
+      "gear": "Lead Frontend Engineer • Alteryx, United States",
+      "gearList": [{
+          "item": "Led the frontend development of a airline pricing aggregator."
+        },
+        {
+          "item": "The application would query a number of different sources for typical air itineraries using a multi‐threaded architecture and compile the results for human consumption"
+        },
+        {
+          "item": "Converted Figma design to SPA with React and Tailwind CSS."
+        },
+        {
+          "item": "Profiling critical components eliminated render waste, dramatically improving performance."
+        },
+        {
+          "item": "Simplified the project structure, emphasizing reusability and scalability.",
+          "type": ["03 2020", "05 2022"]
+        }
+      ]
+    },
+    {
+      "gear": "Senior Full Stack Developer • Georgia, United States",
+      "gearList": [{
+          "item": "Implemented a web application used by different organizations to manage their payment systems."
+        },
+        {
+          "item": "Reviewed and tested code of other developers to monitor app performance and code quality."
+        },
+        {
+          "item": "Planned and created database architecture of a large-scale complex mobile app."
+        },
+        {
+          "item": "Worked on performance enhancement of an existing mobile app which got tremendous improvement after optimization."
+        },
+        {
+          "item": "Integrated Stripe API for mobile application payment system."
+        },
+        {
+          "item":"Migrated an application toward the cloud, reducing hosting costs for the client by 50%",
+          "type": ["01 2017 ", "11 2019"]
+        }
+      ]
+    }
+  ]
+}

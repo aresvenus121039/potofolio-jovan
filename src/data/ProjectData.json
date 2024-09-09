@@ -1,0 +1,71 @@
+[{
+    "title": "NFT Marketplaces Site",
+    "description": "Blockasset is an athlete-verified NFT and token ecosystem, enabling fans and athletes to connect like never before, via the power of Web3. Here, I developed Frontend using React/Next and integrated Web3.js into frontend.",
+    "technology": "NextJS",
+    "image": "../projects/blockasset.png",
+    "link": "https://blockasset.co/"
+  },
+  {
+    "title": "AI Immerse Site",
+    "description": "This is AI site to scrape date from offical site",
+    "technology": "Python",
+    "image": "../projects/immerse.png",
+    "link": "https://immerse-outreach.com/"
+  },
+  {
+    "title": "React Landing Page",
+    "description": "This is advertising website that Blue Sky Energy Technology makes saving energy simple and fun. Here, I developed Frontend using React.",
+    "technology": "ReactJS",
+    "image": "../projects/react landing.png",
+    "link": "https://www.blueskyenergy.co/"
+  },
+  {
+    "title": "Luxury Jewelry Site",
+    "description": "Nialaya is a luxury jewelry brand that offers a wide range of high-end bracelets, necklaces, and other accessories. In there I developed frontend using React/Next, Facebook Pixel and implemented Payment gateway inclued PayPal, Apple Pay, Venmo, and Amazon Pay.",
+    "technology": "NextJS",
+    "image": "../projects/Shopify.png",
+    "link": "https://www.nialaya.com/"
+  },
+  {
+    "title": "Trevel Site",
+    "description": "Whatever your needs, HLC’s exclusive, tailored, 24/7 lifestyle and travel concierge service can facilitate your vision.",
+    "technology": "WordPress",
+    "image": "../projects/living.png",
+    "link": "https://highlivingconcierge.com/"
+  },
+  {
+    "title": "Blockchain Site",
+    "description": "This is Blockchain website. I developed this website using Angualar for Frontend and using Solidity for Backend.",
+    "technology": "Angular",
+    "image": "../projects/aidog.png",
+    "link": "https://aidoge.com/en"
+  },
+  {
+    "title": "Cryptocurrency Exchange Site",
+    "description": "Blockfinex is a cryptocurrency exchange that allows users to buy, sell, and trade various digital assets, including Bitcoin, Ethereum, and Litecoin. In this project, I developed frontend using Vue and duilt smart contract using Solidity.",
+    "technology": "Vue",
+    "image": "../projects/cooperative.png",
+    "link": "https://www.blockfinex.com/"
+  },
+  {
+    "title": "Health App",
+    "description": "There's a strong correlation between dental health, mental health, and our overall well-being. The founders at Otis partnered with Brash to expand their dental e-commerce company by creating a wellness mobile app to directly help people live better lives, reduce the impact of Bruxism, and improve their oral care and self-care routines. In there, I developed frontend and using React Native,  Redux, Asynchronous Storage, and SCSS",
+    "technology": "ReactJS",
+    "image": "../projects/Health app.png",
+    "link": "https://play.google.com/store/apps/details?id=com.otis.dental"
+  },
+  {
+    "title": "Card Site",
+    "description": "This website is WordPress site using Shopify and Woocommerce. The website offers information about the different industries they serve, the equipment they offer, and their solutions for interchange pricing, PCI compliance, cash advance, and QuickBooks integration.",
+    "technology": "WordPress",
+    "image": "../projects/Card.png",
+    "link": "https://www.mscmerchant.com/"
+  },
+  {
+    "title": "Logistics Management Platform",
+    "description": "A web application for managing orders, payments, routes, drivers, etc. Provides an interactive map where the user can see drivers moving in real-time, drag&drop orders between routes, assign them to a different driver, and build a shortest/fastest route. Has pages for managing drivers, vehicles, fuel prices; formatting different kinds of reports and analytics.",
+    "technology": "ReactJS",
+    "image": "../projects/Travel.png",
+    "link": "https://www.fastvan.com/"
+  }        
+]
